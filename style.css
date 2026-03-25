@@ -953,6 +953,7 @@ body {
     text-indent: 20px;
     font-size: 22px;
     opacity: 1;
+    display: block;
 }
 .boxMail .boxMail-container .card2:hover h2{
     animation: texth2 2s forwards;
