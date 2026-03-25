@@ -875,7 +875,7 @@ body {
     height: 80px;
     background-color: white;
     border-radius: 50%;
-    overflow: hidden;
+    overflow: auto;
     border: 2px solid white;
     cursor: pointer;
     margin-bottom: 20px;
@@ -914,7 +914,7 @@ body {
     position: relative;
     background-color: #FF7882;
     transition: all 1s;
-    overflow: hidden;
+    overflow: auto;
     font-family: "Inter", serif;
     color: #fff;
 }
@@ -952,7 +952,7 @@ body {
     padding: 0px 20px;
     text-indent: 20px;
     font-size: 22px;
-    opacity: 0;
+    opacity: 1;
 }
 .boxMail .boxMail-container .card2:hover h2{
     animation: texth2 2s forwards;
